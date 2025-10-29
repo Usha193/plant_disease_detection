@@ -44,7 +44,6 @@ This process for building a model which can detect the disease assocaited with t
 
 5. Various Model Architecture tried along with Learning Rate and Optimizer and various accuracy obtained with different models.
 
-All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
 <br/>
 
 ## Details about the model
@@ -71,7 +70,5 @@ All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyaji
 
 This project is Licensed under `MIT`
 
-## Explanation
 
-`To understand the code :` You can find the complete explanation to the code in [Article](https://medium.com/@soumyajit4419/plant-ai-c8fc95ed90e6?source=friends_link&sk=4707825cbaefa2dcaaa92d0e3ed5de01)
 
